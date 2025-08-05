@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gvsumanth10
 - 👀 I’m interested in Data Science, Full Stack Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Machine Learning and Web Application Dev
 - 📫 Can reach me gvsumanth1632@gmail.com
 
 <!---
